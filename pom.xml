@@ -30,6 +30,12 @@
             <version>8.2.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.eclipse.parsson</groupId>
+            <artifactId>parsson</artifactId>
+            <version>1.1.5</version>
+        </dependency>
+
     </dependencies>
 
 </project>
